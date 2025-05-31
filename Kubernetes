@@ -1,0 +1,43 @@
+Interview Questions:-
+Topics:-
+##Architecture
+===================
+1.Explain K8s architecture.
+2.Why Kubernetes called as K8s.
+3.Explain complete end to end process to create eks cluster in AWS EKS.
+4.Difference between stateless and stateful applications.
+5.Different betwn Deployment and statefulset and expl with example
+6.What is PVC and and how you are using this component in your current organization?
+7.How can you configure the ebs volume to a pod>?
+8.Write a sample HPA file?
+9.How do you configure ArgoCD for deployment purpose in k8s?
+10.Defaults ports of prometheus and grafana?
+11.Explain network policies in k8s?
+12.What are the common errors that you are seeing in the k8 pods?
+13.What is the source of prometheus?
+14.Difference between daemonset and statefulset
+15.How kube proxy will allocate the ip address to pods?
+16.What is sidecar container in k8sand what are its use cases?
+17.what are the different types of Kuberenetes volumes?
+18.If a pod is in a crash loop,what might be the reasons,how can you recover it?
+19.If pod fails to start during a rolling update,what strategy would you use to identify the issue and rollback?
+20.Your EKS applications is experiencing higher than expected traffic.How would you automatically scale the pods?
+21.Your team needs to be alerted when the CPU usage of any pod in your EKS cluster exceeds 80% for more than 5 minutes.How would you set this up?
+22.How do you manage connectivity  between multiple pods in k8 cluster?
+23.How do worker nodes communicates with the control plane?
+24.How can we increase the capacity of pods using CLI?
+25.Explain use cases of EKS
+26.If a new version fails,how would you roll it back?
+27.How you would debud a crashloopBackoff state in k8 pod
+28.How do you implement  areadiness probe and liveness probe?
+29.How do you implement  node affinity to ensure pods are scheduled on specific nodes?
+30.How rolling updates work in deployment.
+31.
+
+
+
+
+
+
+
+
