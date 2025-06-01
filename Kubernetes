@@ -32,7 +32,38 @@ Topics:-
 28.How do you implement  areadiness probe and liveness probe?
 29.How do you implement  node affinity to ensure pods are scheduled on specific nodes?
 30.How rolling updates work in deployment.
-31.
+31.Exp diff betwn Pod and node?
+32.How does kubernetes handle pod failures?
+33.What are the different types of workloads in kubernetes?
+34.Exp difference between Replication controller,Replicaset and deployment?
+35.How does Kubernetes manage internal and external networking?
+36.Explain Ingress in k8 and its use cases?
+37.How does DNS work within a kubernetes cluster.
+38.Explain the process of binding a PV to a PVC?
+39.What is storage class and how does it relate to dynamic provisioning?
+40.How can you securely manage secrets in kubernetes?
+41.How do you scale pods in k8s?
+42.How does Cluster Autoscaler differ from HPA?
+43.Explain RBAC in k8s?
+44.Exp diif betwn Role and ClusterRole.
+45.What is ServiceAccount and why would you use it?
+46.How to debug specific container logs?Consider there are 2 containers running inside a single pod?
+47.Exp Limitrange in K8s.
+48.What are resource requests and limits in K8s?
+49.How does K8s handle service discovery  and load balancing?
+50.What are K8 labels and selectors?
+51.What is Kubernetes Operator?
+52.How can you perform rolling updates with zero downtime in k8s?
+53.What is K8s helm?
+54.How does K8 handle security and access control?
+55.What is the default deployments in k8s?
+56.What are taint and tolerations in K8s?
+57.What is static pod in k8 and how is it different from a regular pod?
+58.What is default scaling in k8 and how does it work?
+59.What different ingress resources you have worked on?
+60.A k8 pod is unable to communicate with another pod in a different namespace?How would you debug this issue?
+61.What is Custom Resource Definition(CRD)?
+62.What are API groups in Kubernetes?
 
 
 
